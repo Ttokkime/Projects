@@ -14,7 +14,8 @@ This repository provides an overview of the projects I have done throughout high
 + #### [Lab 8: Performing a Web Site and Database Attack by Exploiting Identified Vulnerabilites](https://github.com/Ttokkime/Lab-8/blob/main/README.md)
 + #### [Lab 9: Eliminating Threats with a Layered Security Approach](https://github.com/Ttokkime/Lab-9/blob/main/README.md)
 + #### [Lab 10: Implementing an Information Systems Security Policy](https://github.com/Ttokkime/Lab-10/blob/main/README.md)
-### 2. [Helping Hands Haiti Website](http://helpinghandhaiti.org/)
+### 2. A Helping Hand for Haiti Website
+[A Helping Hand for Haiti](http://helpinghandhaiti.org/) is a website that informs the public about Haiti's and ways in which people can help Haiti. Whether it be through sending donations or by showcasing support for missionaries such as Youngnak Church Missionary Um, every effort is apprectiated. After all, a small action can go a long way in changing a person's life and Haiti, a country known for being one of the poerest countreies in the Western Hemiphere, could use all the help that it can get. 
 ### 3. Girls Who Code Projects
 + #### Cracking Ceaser's Cipher
 + #### Cipher Usability
