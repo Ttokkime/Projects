@@ -1,5 +1,5 @@
 # Projects
-This is a summary of my projects during high school:
+This repository provides an overview of the projects and I did throughout high school and links to each projects' repositories:
 
 ## 1. Cybersecurity Research Lab
 #### Under the guidance of Professor Songjin Hong, I was able to complete various labs on advanced topics in cybersecurity. 
