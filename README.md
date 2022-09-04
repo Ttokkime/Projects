@@ -1,5 +1,14 @@
 # Projects
-Below includes a summary of the projects I have done up to the summer of 2022
+This is a summary of my projects:
 ## 1. Cybersecurity Research Lab
 ## 2. Helping Hands Haiti Website
-## 3. 
+## 3. Girls Who Code Projects
++ Cracking Ceaser's Cipher
++ Cipher Usability
++ Programming Ceasar's Cipher
++ Breach Bot
++ CyHelp
++ Activist Website
++ Jamie Lee's Personality Quiz
++ Portfolio
+## 4. Personal Website and Chat Bot
