@@ -14,7 +14,7 @@ This repository provides an overview of the projects I have done throughout high
 + #### [Lab 8: Performing a Web Site and Database Attack by Exploiting Identified Vulnerabilites](https://github.com/Ttokkime/Lab-8/blob/main/README.md)
 + #### [Lab 9: Eliminating Threats with a Layered Security Approach](https://github.com/Ttokkime/Lab-9/blob/main/README.md)
 + #### [Lab 10: Implementing an Information Systems Security Policy](https://github.com/Ttokkime/Lab-10/blob/main/README.md)
-### 2. Helping Hands Haiti Website
+### 2. [Helping Hands Haiti Website](http://helpinghandhaiti.org/)
 ### 3. Girls Who Code Projects
 + #### Cracking Ceaser's Cipher
 + #### Cipher Usability
