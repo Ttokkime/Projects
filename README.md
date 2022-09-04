@@ -1,5 +1,5 @@
 # Projects
-This repository provides an overview of the projects I have done and links for each one.
+This repository provides an overview of the projects I have done:
 
 ### 1. Cybersecurity Research Lab
 ##### Under the guidance of Professor Songjin Hong, I was able to complete various labs on advanced topics in cybersecurity. 
