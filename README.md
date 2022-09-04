@@ -4,7 +4,7 @@ This repository provides an overview of the projects I have done throughout high
 
 ### 1. Cybersecurity Research Lab
 ##### Under the guidance of Professor Songjin Hong, I was able to complete my research using various labs based on advanced topics in cybersecurity. 
-+ #### [Lab 1: Performing Reconnaissance and Probing using Common Tools] (../Lab-1/blob/main/README.md)
++ #### ![Lab 1: Performing Reconnaissance and Probing using Common Tools] (../Lab-1/blob/main/README.md)
 + #### Lab 2: Performing a Vulnerability Assesment
 + #### Lab 3: Enabling Windows Active Directory and User Access Controls
 + #### Lab 4: Using Group Policy Objects and Microsoft Baseline Security Analyzer for Change Control
