@@ -1,5 +1,6 @@
 # Projects
 This is a summary of my projects during high school:
+
 ## 1. Cybersecurity Research Lab
 #### Under the guidance of Professor Songjin Hong, I was able to complete various labs on advanced topics in cybersecurity. 
 + ### Lab 1: Performing Reconnaissance and Probing using Common Tools
