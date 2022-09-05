@@ -21,12 +21,14 @@ Using Wordpress for the base of my website design and Bluehost as a web hosting 
 ![Website image](https://github.com/Ttokkime/Projects/blob/9bbeba2d3d11f687d5535c538599e244eb37f20a/Helpinghandhaiti.png)
 
 ### 3. Girls Who Code Projects
-+ #### [Cracking Ceaser's Cipher](https://github.com/Ttokkime/Cracking-Ceaser-Cipher/blob/main/README.md)
+Over the course of two summers, I created numerous projects with the help of the Girls Who Code organization. The portfolio, personality quiz, and activist website were made during my first summer with Girls Who Code and showcase what I learned about CSS, HTML, and javascript. The ceasar cipher related projects, the breach bot, and the cyhelp program all were projects I did during my second summer with Girls Who Code when I was learning about Python, cybersecurity, and cryptology.
+
++ #### [Cracking Ceasar's Cipher](https://github.com/Ttokkime/Cracking-Ceaser-Cipher/blob/main/README.md)
 + #### [Cipher Usability](https://github.com/Ttokkime/Cipher-Usability)
 + #### Programming Ceasar's Cipher
 + #### Breach Bot
 + #### CyHelp
 + #### Activist Website
-+ #### Jamie Lee's Personality Quiz
++ #### Personality Quiz
 + #### Portfolio
 ### 4. Personal Website and Chat Bot
