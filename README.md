@@ -16,11 +16,10 @@ This repository provides an overview of the projects I have done throughout high
 + #### [Lab 10: Implementing an Information Systems Security Policy](https://github.com/Ttokkime/Lab-10/blob/main/README.md)
 ### 2. A Helping Hand for Haiti Website
 [A Helping Hand for Haiti](http://helpinghandhaiti.org/) is a website that informs the public about Haiti's situation and ways in which people can help Haiti. Whether it be through sending donations or by giving support to missionaries such as Youngnak Church Missionary Um, every effort is apprectiated. After all, a small action can go a long way in changing a person's life and Haiti, a country known for being one of the poorest countries in the Western Hemisphere, could use all the help that it can get. 
-
+Using Wordpress for the base of my website design and Bluehost as a web hosting provider, I was able to create this website promoting help for Haiti.
 
 ![Website image](https://github.com/Ttokkime/Projects/blob/9bbeba2d3d11f687d5535c538599e244eb37f20a/Helpinghandhaiti.png)
 
-Using Wordpress for the base of my website design and Bluehost as a web hosting provider, I was able to create this website promoting help for Haiti.
 ### 3. Girls Who Code Projects
 + #### Cracking Ceaser's Cipher
 + #### Cipher Usability
