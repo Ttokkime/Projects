@@ -1,5 +1,5 @@
 # Projects
-This repository provides an overview of the projects I have done throughout high school.
+This repository provides an overview of the projects I, Jamie Lee, have done throughout high school.
 
 
 ### 1. Cybersecurity Research Lab
