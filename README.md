@@ -20,6 +20,7 @@ This repository provides an overview of the projects I have done throughout high
 
 ![Website image](https://github.com/Ttokkime/Projects/blob/9bbeba2d3d11f687d5535c538599e244eb37f20a/Helpinghandhaiti.png)
 
+Using Wordpress for the base of my website design and Bluehost as a web hosting provider, I was able to create this website promoting help for Haiti.
 ### 3. Girls Who Code Projects
 + #### Cracking Ceaser's Cipher
 + #### Cipher Usability
