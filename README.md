@@ -1,4 +1,4 @@
-# Projects
+# Jamie Lee's Projects
 This repository provides an overview of the projects I have done during my time at Lebanon Trail High School.
 
 
