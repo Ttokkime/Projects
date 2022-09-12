@@ -1,5 +1,5 @@
 # Projects
-This repository provides an overview of the projects Jamie Lee has done throughout her time at Lebanon Trail High School.
+This repository provides an overview of the projects I have done during my time at Lebanon Trail High School.
 
 
 ### 1. Cybersecurity Research Lab
