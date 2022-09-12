@@ -33,7 +33,7 @@ Over the course of two summers, I created numerous projects with the help of the
 + #### Portfolio
 ### 4. Personal Website and Chat Bot
 Under the guidance of Kevin Koh, a graduate from the University of Berkeley and a software engineer who has worked at various companies such as Google, Amazon, and now LiquiFi, taught me web development for a couple of months in the spring of 2022. With the knowledge I gained from his teachings, I was able to put together a personal portfolio website with a chat bot. 
-![Portfolio Image]("https://github.com/Ttokkime/Projects/blob/0ed60e76698cba2986ccbd52eb018af92992c647/cover%20picture.png)
+![Portfolio Image](https://github.com/Ttokkime/Projects/blob/0ed60e76698cba2986ccbd52eb018af92992c647/cover%20picture.png)
 [Jamie Lee's Portfolio and Chat Bot](https://jamprofile.herokuapp.com/)
 
 
