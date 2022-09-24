@@ -28,8 +28,8 @@ Over the course of two summers, I created numerous projects with the help of the
 + #### [Programming Ceasar's Cipher](https://github.com/Ttokkime/Programming-Caesar-s-Cipher)
 + #### [Breach Bot](https://github.com/Ttokkime/Breach-Bot-Jamie-L./blob/main/README.md)
 + #### [CyHelp](https://github.com/Ttokkime/CyHelp-Jamie-L.)
-+ #### Activist Website
-+ #### Personality Quiz
++ #### [Activist Website]
++ #### [Personality Quiz](https://github.com/Ttokkime/Jamie-Lee-Personality-Quiz)
 + #### Portfolio
 ### 4. Personal Website and Chat Bot
 Under the guidance of Kevin Koh, a graduate from the University of Berkeley and a software engineer who has worked at various companies such as Google, Amazon, and now LiquiFi, taught me web development for a couple of months in the spring of 2022. With the knowledge I gained from his teachings, I was able to put together [Jamie Lee's Portfolio and Chat Bot](https://jamprofile.herokuapp.com/)
