@@ -5,7 +5,7 @@ This repository provides an overview of the projects I have done during my time 
 ### 1. Cybersecurity Research Lab
 ##### Under the guidance of Professor Songjin Hong, I was able to complete my research using various labs based on advanced topics in cybersecurity. 
 + #### [Lab 1: Performing Reconnaissance and Probing using Common Tools](https://github.com/Ttokkime/Lab-1)
-+ #### [Lab 2: Performing a Vulnerability Assesment](https://github.com/Ttokkime/Lab-2)
++ #### [Lab 2: Performing a Vulnerability Assessment](https://github.com/Ttokkime/Lab-2)
 + #### [Lab 3: Enabling Windows Active Directory and User Access Controls](https://github.com/Ttokkime/Lab-3)
 + #### [Lab 4: Using Group Policy Objects and Microsoft Baseline Security Analyzer for Change Control](https://github.com/Ttokkime/Lab-4)
 + #### [Lab 5: Performing Packet Capture and Traffic Analysis](https://github.com/Ttokkime/Lab-5)
