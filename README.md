@@ -37,5 +37,6 @@ Under the guidance of Kevin Koh, a graduate from the University of Berkeley and 
 
 ![Portfolio Image](https://github.com/Ttokkime/Projects/blob/0ed60e76698cba2986ccbd52eb018af92992c647/cover%20picture.png)
 
+### 5. LTHS Video Game Design Club 
 
 
