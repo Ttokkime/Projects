@@ -20,13 +20,13 @@ Using Wordpress for the base of my website design and Bluehost as a web hosting 
 
 ![Website image](https://github.com/Ttokkime/Projects/blob/9bbeba2d3d11f687d5535c538599e244eb37f20a/Helpinghandhaiti.png)
 
-### 4. Personal Website and Chat Bot
+### 3. Personal Website and Chat Bot
 Under the guidance of Kevin Koh, a graduate from the University of Berkeley and a software engineer who has worked at various companies such as Google, Amazon, and now LiquiFi, taught me web development for a couple of months in the spring of 2022. With the knowledge I gained from his teachings, I was able to put together [Jamie Lee's Portfolio and Chat Bot](https://jamprofile.herokuapp.com/)
 
 
 ![Portfolio Image](https://github.com/Ttokkime/Projects/blob/0ed60e76698cba2986ccbd52eb018af92992c647/cover%20picture.png)
 
-### 3. Girls Who Code Projects
+### 4. Girls Who Code Projects
 Over the course of two summers, I created numerous projects with the help of the Girls Who Code organization. The portfolio, personality quiz, and activist website were made during my first summer with Girls Who Code and showcase what I learned about CSS, HTML, and javascript. The ceasar cipher related projects, the breach bot, and the cyhelp program all were projects I did during my second summer with Girls Who Code when I was learning about Python, cybersecurity, and cryptology.
 
 + #### [Activist Website]
