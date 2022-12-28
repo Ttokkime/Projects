@@ -29,9 +29,9 @@ Under the guidance of Kevin Koh, a graduate from the University of Berkeley and 
 ### 4. Girls Who Code Projects
 Over the course of two summers, I created numerous projects with the help of the Girls Who Code organization. The portfolio, personality quiz, and activist website were made during my first summer with Girls Who Code and showcase what I learned about CSS, HTML, and javascript. The ceasar cipher related projects, the breach bot, and the cyhelp program all were projects I did during my second summer with Girls Who Code when I was learning about Python, cybersecurity, and cryptology.
 
-+ #### [Activist Website]
++ #### [Activist Website](https://github.com/Ttokkime/Activist-Website)
 + #### [Personality Quiz](https://github.com/Ttokkime/Jamie-Lee-Personality-Quiz)
-+ #### Portfolio
++ #### [Portfolio](https://github.com/Ttokkime/Personal-Website)
 + #### [Cracking Ceasar's Cipher](https://github.com/Ttokkime/Cracking-Ceaser-Cipher/blob/main/README.md)
 + #### [Cipher Usability](https://github.com/Ttokkime/Cipher-Usability)
 + #### [Programming Ceasar's Cipher](https://github.com/Ttokkime/Programming-Caesar-s-Cipher)
