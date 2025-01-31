@@ -38,6 +38,4 @@ Over the course of two summers, I created numerous projects with the help of the
 + #### [Breach Bot](https://github.com/Ttokkime/Breach-Bot-Jamie-L./blob/main/README.md)
 + #### [CyHelp](https://github.com/Ttokkime/CyHelp-Jamie-L.)
 
-### 5. LTHS Video Game Design Club 
-
 
